@@ -1,1 +1,41 @@
+.header h1 {
+  background-color: rgb(179, 176, 176);
+  padding: 14px;
+  margin: 0;
+}
+nav {
+  overflow: hidden;
+  background-color: black;
+}
+ul {
+  overflow: hidden;
+  padding: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+li {
+  border-right: 1px solid white;
+  float: left;
+  overflow: hidden;
+}
+li a {
+  display: block;
+  margin: 2px;
+  padding: 3px;
+}
+a {
+  color: white;
+  text-decoration: none;
+  padding: 0px;
+}
+.active {
+  background-color: green;
+  margin: 0px;
+  padding: 0px;
+}
 
+div.content {
+  margin-left: 12px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
