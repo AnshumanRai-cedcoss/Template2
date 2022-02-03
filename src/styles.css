@@ -23,10 +23,10 @@ li a {
   margin: 2px;
   padding: 3px;
 }
-li:hover{
+li:hover {
   background-color: green;
   margin: 0px;
-  padding:0px;
+  padding: 0px;
 }
 a {
   color: white;
@@ -47,7 +47,6 @@ div.content {
 #leftbox {
   float: left;
   width: 65%;
-  
 }
 #leftbox p {
   margin-top: 0px;
